@@ -1,15 +1,25 @@
 ---
+# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  name: "OSW"
+  text: "Our Server's Wiki"
+  tagline: ويكي قرصنة عربية
   actions:
     - theme: brand
-      text: Get Started
-      link: /example
+      text: Markdown Examples
+      link: /markdown-examples
     - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      text: API Examples
+      link: /api-examples
+
+features:
+  - title: Feature A
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature B
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Feature C
+    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
+
