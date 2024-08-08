@@ -1,28 +1,51 @@
 import { defineConfig } from 'vitepress'
 
-// https://vitepress.dev/reference/site-config
+
 export default defineConfig({
-  title: "Our Server's Wiki",
-  description: "Our Server's Discord Wiki",
+  title: "OSW",
+  description: "Our Server's Wiki",
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    logo: '/logo.png',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Examples', link: '/markdown-examples' }
+      { text: 'Updates', link: '/updates' }
     ],
 
-    sidebar: [
-      {
-        text: 'Examples',
-        items: [
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
-        ]
-      }
-    ],
+    sidebar: {
+      '/': [
+        {
+          items: [
+            { text: '⚠دليل المبتدئين', link: '/beginners-guide' },
+            { text: '📺افلام / مسلسلات / انمي', link: '/Movies-TV-Anime' },
+            { text: '🎮العاب / محاكاة', link: '/Games-Emmulation' },
+            { text: '🎵موسيقة / بودكاست / راديو', link: '/Music-Podcasts-Radio' },
+            { text: '📗كتب / كوميكس / مانجا', link: '/Books-Comics-Manga' }
+          ]
+        },
+        {
+          text: '🛠ادوات',
+          collapsed: false, 
+          items: [
+            { text: 'لسة شغال عليهم'},
+          ]
+        },
+        {
+          text: '➕زيادة',
+          collapsed: true, 
+          items: [
+            { text: '🌟 عليه اقبال كبير من مجتمع القرصنة'},
+            { text: '🌐 فهارس عليها معلومات للحاجة'},
+          ]
+        }
+      ]
+    },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
-    ]
+      { icon: 'github', link: 'https://github.com/YousefMohsen0/ourservers-megathread' }
+    ],
+
+    search: {
+      provider: 'local'
+    }
   }
 })
