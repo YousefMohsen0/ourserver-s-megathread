@@ -41,7 +41,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/YousefMohsen0/ourservers-megathread' }
+      { icon: 'github', link: 'https://github.com/YousefMohsen0/ourserverswiki' }
     ],
 
     search: {
