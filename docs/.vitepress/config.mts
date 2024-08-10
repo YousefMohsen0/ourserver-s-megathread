@@ -58,6 +58,9 @@ export default defineConfig({
       message: 'made with ❤',
       copyright: '© 2024 YousefMohsen'
     },
+export default {
+  lastUpdated: true
+    }, 
 
     search: {
       provider: 'local'
