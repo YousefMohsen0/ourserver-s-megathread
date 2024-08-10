@@ -2,6 +2,8 @@
 title: مهم
 ---
 
+<div dir="rtl">
+
 # مهم
 حجات مهمة هتحتاجها
 
@@ -85,3 +87,5 @@ title: مهم
 * [MAS ISO Index](https://massgrave.dev/genuine-installation-media)  - ل تحميل iso الويندوز
 
 * [Rufus](https://rufus.ie/) - ل حرق ملفات الiso علي فلاشة
+
+</div>
