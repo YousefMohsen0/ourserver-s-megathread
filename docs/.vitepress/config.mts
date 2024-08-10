@@ -64,6 +64,6 @@ export default defineConfig({
 
     lastUpdated: true,
 
-    outline: [2, 3, 4, 5]
+    outline: [2, 3, 4, 5, 6]
   }
 })
