@@ -42,4 +42,4 @@ features:
 
 ***
 
-made with love ❤️
+made with <3
