@@ -46,7 +46,6 @@ features:
     :root {
       --vp-home-hero-name-color: transparent;
       --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
-
       --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
       --vp-home-hero-image-filter: blur(44px);
     }
@@ -63,14 +62,11 @@ features:
       }
     }
 
-    /* Add RTL specific styles if needed */
     body {
       text-align: right;
     }
 
-    /* Example for adjusting layout */
     .some-element {
-      /* Example adjustments for RTL */
       margin-right: 0;
       margin-left: auto;
     }
