@@ -54,14 +54,11 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/YousefMohsen0' }
     ],
-    editLink: {
-      pattern: 'https://github.com/vuejs/vitepress/edit/main/docs/:path',
-      text: 'Edit this page on GitHub'
-    },
     footer: {
       message: 'made with ❤',
       copyright: '© 2024 YousefMohsen'
     },
+
     search: {
       provider: 'local'
     }
