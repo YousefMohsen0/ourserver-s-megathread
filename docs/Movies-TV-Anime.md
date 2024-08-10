@@ -81,4 +81,5 @@
 * [Letterboxd](https://letterboxd.com/) دة بيحفظ الافلام الي اتفرجت عليها
 
 * [MyAnimeList](https://myanimelist.net/) دة بيحفظ الانميات الي اتفرجت عليها
+
 </div>
