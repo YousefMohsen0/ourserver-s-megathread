@@ -62,5 +62,17 @@ features:
         --vp-home-hero-image-filter: blur(68px);
       }
     }
+
+    /* Add RTL specific styles if needed */
+    body {
+      text-align: right;
+    }
+
+    /* Example for adjusting layout */
+    .some-element {
+      /* Example adjustments for RTL */
+      margin-right: 0;
+      margin-left: auto;
+    }
   </style>
 </div>
