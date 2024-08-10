@@ -2,6 +2,8 @@
 title: Music-Podcasts-Radio
 ---
 
+<div dir="rtl">
+
 # اغاني / بودكاست / راديو
 اسمع علطول , حمل الاغاني , تورنت الاغاني
 
@@ -26,4 +28,5 @@ title: Music-Podcasts-Radio
 
 * [yet another music server](https://yams.tf/) Deezer / Tidal / Qobuz / Spotify / OGG
 
-* [MP3 Daddy](https://mp3-daddy.com/) Deezer / 320kb / MP3 / OGG 
+* [MP3 Daddy](https://mp3-daddy.com/) Deezer / 320kb / MP3 / OGG
+</div>
