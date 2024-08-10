@@ -62,6 +62,8 @@ export default defineConfig({
       provider: 'local'
     },
 
-    lastUpdated: true
+    lastUpdated: true,
+
+    outline: [2, 3]
   }
 })
