@@ -1,7 +1,8 @@
 ---
 title: اندرويد
-direction: rtl
 ---
+
+<div dir="rtl">
 
 # اندرويد
 برامج, تكريك , محاكاة
@@ -95,3 +96,4 @@ direction: rtl
 * 🌟[MiXplorer](https://mixplorer.com/) - File Explorer ل تصفح و تعديل الملفات
 
 * 🌟[SD Maid](https://github.com/d4rken-org/sdmaid-se) - ل مسح الملفات الغير مهمه
+</div>
