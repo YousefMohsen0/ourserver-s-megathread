@@ -5,7 +5,7 @@ export default defineConfig({
   title: "OSW",
   description: "Our Server's Wiki",
   themeConfig: {
-    logo: '/public/logo.ico',
+    logo: '/logo.webp',
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Updates', link: '/updates' }
