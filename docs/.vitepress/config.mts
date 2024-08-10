@@ -7,42 +7,56 @@ export default defineConfig({
   themeConfig: {
     logo: '/logo.webp',
     nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Updates', link: '/updates' }
+      { text: '🏠Home', link: '/' },
+      { text: '📚دليل المبتدئين', link: '/beginners-guide' },
+      { text: '✨تحديثات', link: '/updates' }
     ],
 
     sidebar: {
       '/': [
         {
           items: [
-            { text: '⚠دليل المبتدئين', link: '/beginners-guide' },
+            { text: '📚دليل المبتدئين', link: '/beginners-guide' },
             { text: '📺افلام / مسلسلات / انمي', link: '/Movies-TV-Anime' },
-            { text: '🎮العاب / محاكاة', link: '/Games-Emmulation' },
+            { text: '🎮العاب / محاكاة', link: '/Games&Emmulation' },
             { text: '🎵موسيقة / بودكاست / راديو', link: '/Music-Podcasts-Radio' },
-            { text: '📗كتب / كوميكس / مانجا', link: '/Books-Comics-Manga' }
+            { text: '📗كتب / كوميكس / مانجا', link: '/Books-Comics-Manga' },
+            { text: '📱اندرويد', link: '/Android' }
           ]
         },
         {
           text: '🛠ادوات',
           collapsed: false, 
           items: [
-            { text: 'لسة شغال عليهم'},
+            { text: '👾 ادوات العاب', link: '/Gaming-Tools' }
           ]
         },
         {
           text: '➕زيادة',
+          collapsed: false,
+          items: [
+            { text: '❗ غير موثوق بيهم', link: '/unsafe' }
+          ]
+        },
+        {
+          text: 'ملحوظة 📝',
           collapsed: true, 
           items: [
             { text: '🌟 عليه اقبال كبير من مجتمع القرصنة'},
-            { text: '🌐 فهارس عليها معلومات للحاجة'},
+            { text: '🌐 فهارس عليها معلومات للحاجة'}
           ]
         }
       ]
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/YousefMohsen0/ourserverswiki' }
+      { icon: 'github', link: 'https://github.com/YousefMohsen0' }
     ],
+
+    footer: {
+      message: 'made with ❤',
+      copyright: '© 2024 YousefMohsen'
+    },
 
     search: {
       provider: 'local'

@@ -1,8 +1,9 @@
 ---
-title: Games-Emmulation
+title: العاب / محاكاة
 ---
 
 # العاب 
+حمل العاب , ROMs , ادوات للئلعاب
 
 ## ريباك (تثبيتة) 
 ::: info
@@ -83,23 +84,73 @@ Chovka [RuTor Profile](http://rutor.info/browse/0/0/1642915/0) | [Telegram](http
 
 * [GLOAD](https://gload.cc/)
 
-## (Trainers) برامج غش 
-::: info
-دول مش للألعاب الاونلاين متستخدمش دول في العاب اونلاين 
-:::
+## ROMs (فايلات الالعاب للمحاكيات) 
 
-* [FLiNG Trainers](https://flingtrainer.com/)
+* 🌟[/r/roms megathread](https://r-roms.gitlab.io/megathread/) - عليك كل الconsoles اختار الي انت عايزو و اختار اول موقع و ابحث عن العبة
  
-* [WeMod](https://www.wemod.com/)
+* 🌟[ROM Heaven](https://romheaven.com/)
+
+* 🌟[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - WiiU
+
+* [Vimm's Lair](https://vimm.net/?p=vault)
+
+* [CDRomance](https://cdromance.com/)
+
+* [Edge Emulation](https://edgeemu.net)
+
+* [Gnarly Repacks](https://rentry.org/gnarly_repacks)
+
+* [Myrient](https://myrient.erista.me/)
+
+* [NXBrew](https://nxbrew.com) - Nintendo Switch
+
+* [TheRomDepot](https://theromdepot.com)
+
+* [Ziperto](https://www.ziperto.com) - Nintendo Switch 
+
+## Emulators (محاكيات) 
+> -> **ملحوظة: في برامج هتحتاج فيلات BIOS/key هتلاقيهم متعلمين ب \* .** ->
+
+* [GameTechWiki](https://emulation.gametechwiki.com/) - The Emulation Wiki - هتلاقي فيلات الBIOS علي الموقع دة
+
+* [ares](https://ares-emu.net/) \* | [MAME](https://www.mamedev.org/index.php) \* | [Mednafen](https://mednafen.github.io/) \* | [RetroArch](https://www.retroarch.com/) \* - ل كزا سيستم
  
-* [GameCopyWorld](https://gamecopyworld.com/games/index.php) عندهم crack only / NoCD fixes.
+* [bsnes](https://github.com/bsnes-emu/bsnes) | [Snes9x](https://www.snes9x.com/) - ل SNES games.
+ 
+* [Project64](https://www.pj64-emu.com/) | [RMG](https://github.com/Rosalie241/RMG) | [simple64](https://simple64.github.io/) - ل Nintendo 64 games.
+ 
+* [Dolphin Emulator](https://dolphin-emu.org/) - ل GameCube / Wii games.
+ 
+* [mGBA](https://mgba.io/) | [VBA-M](https://vba-m.com/) - ل GBA games.
+ 
+* [DeSmuME](https://desmume.org/) | [melonDS](https://melonds.kuribo64.net/) - ل DS games.
+ 
+* [Cemu](http://cemu.info/) - ل Wii U games.
+ 
+* [Ryujinx](https://ryujinx.org/) \* - ل Nintendo Switch games.
+ 
+* [DuckStation](https://www.duckstation.org/) \* | [ePSXe](https://www.epsxe.com/) \* - ل PlayStation 1 games.
+ 
+* [PCSX2](https://pcsx2.net/) \* - ل PS2 games.
+ 
+* [PPSSPP](https://www.ppsspp.org/index.html) - ل PSP games.
+ 
+* [Vita3K](https://vita3k.org/) - ل PSVita games.
+ 
+* [RCPS3](https://rpcs3.net/) - ل PS3 games.
+ 
+* [Xemu](https://xemu.app/) \* - ل original XBOX games.
+ 
+* [Xenia](https://xenia.jp/) - ل XBOX 360 games.
+ 
+* [KEGA Fusion](https://www.carpeludum.com/kega-fusion/) \* - ل SEGA Genesis / Mega Drive games.
+ 
+* [Mesen2](https://github.com/SourMesen/Mesen2) | [puNes](https://github.com/punesemu/puNES) - ل NES games.
+ 
+* [Flycast](https://github.com/flyinghead/flycast) | [redream](https://redream.io/) - ل Dreamcast games.
+ 
+\* في برامج ممكن تحتاج BIOS/Key عشان تشتغل
 
-## ادوات 
+***
 
-* [CrackWatcher](https://crackwatcher.com/) / [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/) / [CWWatch](https://cwwatch.net/) بيخليك تعرف العبة متكركة ولا لا
-
-* [HowLongToBeat](https://howlongtobeat.com/) بيعرفك هتاخد قد اي عشان تختم العبة
-
-* [Game Pauser](https://madebyjase.com/game-pauser/) بيعمل ايقاف مؤقت للالعاب الي مفيهاش
-
-* [Map Genie](https://mapgenie.io/) خرائط العاب
+# [ادوات العاب](/Gaming-Tools)
