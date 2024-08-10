@@ -72,7 +72,7 @@ title: غير موثوق بيهم
 
 
 ## رافعين غير موثوق بيهم
-ممكن تلاقي ناس منهم علي مواقع التورنت او البحث خلي بالك و متحملش منهم ممكن برضو ناس تظهر من مواقع غير الموثوق بيها متحملش منهم
+ممكن تلاقي ناس منهم علي مواقع التورنت او البحث خلي بالك و متحملش منهم ممكن برضو ناس تظهر من [مواقع غير الموثوق بيها](/unsafe#مواقع-غير-موثوق-بيها) متحملش منهم
 
 * **IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM, crypto miners, as well as malware, and exploit you for ad revenue.** 
 
