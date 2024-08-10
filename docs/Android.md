@@ -6,7 +6,7 @@ title: اندرويد
 برامج, تكريك , محاكاة
 
 ## Modded APKs
-->APKs ل العاب او برامج مكركة->
+> APKs ل العاب او برامج مكركة
 
 * 🌟[Mobilism](https://forum.mobilism.org/viewforum.php?f=398) / [البرنامج](https://forum.mobilism.org/app/) - العاب / برامج / كتب
 
@@ -19,7 +19,7 @@ title: اندرويد
 * 🌟[PlatinMods](https://platinmods.com/) - العاب
 
 ## Untouched APKs 
-->APKs عادية->
+> APKs عادية
 
 * 🌟[APKMirror](https://www.apkmirror.com/)
 
@@ -38,7 +38,7 @@ title: اندرويد
 * 🌟[CApod](https://github.com/d4rken-org/capod) , [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) -  مراقبة بطاريات ال AirPods 
 
 ## Android مشغل صوت 
-برامج تشغيل الاغاني
+> برامج تشغيل الاغاني
 
 * 🌟[Poweramp](https://forum.mobilism.org/search.php?keywords=poweramp&sr=topics&sf=titleonly)
 
@@ -63,7 +63,7 @@ title: اندرويد
 * [Librera](https://librera.mobi/) - قارئ كتب 
 
 ## Android بث 
-->برامج تبث افلام و مسلسلات و انمي->
+> برامج تبث افلام و مسلسلات و انمي
 
 * 🌟[ReVanced Manager](https://forum.mobilism.org/search.php?keywords=Youtube+ReVanced&sr=topics&sf=titleonly) - يوتيوب منغير اعلانات و مميزات YouTube Premium 
 
