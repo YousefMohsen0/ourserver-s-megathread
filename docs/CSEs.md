@@ -2,6 +2,7 @@
 title: مواقع بحث
 ---
 
+<div dir="rtl">
 # مواقع بحث
 > خلي بالك من الرافعن الغير موثوق فيهم
 
@@ -32,3 +33,4 @@ title: مواقع بحث
 * [Anime Download CSE](https://cse.google.com/cse?cx=006516753008110874046:osnah6w0yw8#gsc.tab=0) - موقع بحث تحمل عادي للانمي
 
 * [Anime Torrent CSE](https://cse.google.com/cse?cx=006516753008110874046:lamzt6ls4iz) - موقع تحمل تورنت للانمي
+</div>
