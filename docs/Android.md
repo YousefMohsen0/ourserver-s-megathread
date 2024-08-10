@@ -35,7 +35,7 @@
 
 * 🌟[CApod](https://github.com/d4rken-org/capod) , [OpenPods](https://github.com/adolfintel/OpenPods) or [MaterialPods](https://play.google.com/store/apps/details?id=com.pryshedko.materialpods) -  مراقبة بطاريات ال AirPods 
 
-## Android مشغل صوت 
+### Android مشغل صوت 
 > برامج تشغيل الاغاني
 
 * 🌟[Poweramp](https://forum.mobilism.org/search.php?keywords=poweramp&sr=topics&sf=titleonly)
@@ -58,7 +58,18 @@
 
 * [Mobilism](https://forum.mobilism.org/app/) - كتب 
 
-* [Librera](https://librera.mobi/) - قارئ كتب 
+* [Librera](https://librera.mobi/) - قارئ كتب
+
+### Android Manga
+
+* 🌟[Mihon](https://mihon.app/) - [اضافات](https://keiyoushi.github.io/extensions/) / [نسخ با اشكال تانية](https://mihon.app/forks/) - قارئ مانجا
+
+* [Kotatsu](https://kotatsu.app/) - قارئ مانجا
+
+* [Neko](https://github.com/nekomangaorg/Neko) - قارئ مانجا
+
+* [Dantotsu](https://dantotsu.app/) - قارئ منجا
+
 
 ## Android بث 
 > برامج تبث افلام و مسلسلات و انمي
@@ -71,17 +82,7 @@
 
 * 🌟[Kuukiyomi](https://github.com/LuftVerbot/kuukiyomi/)
 
-* [HDO Box](https://forum.mobilism.org/search.php?keywords=HDO+Box&sr=topics&sf=titleonly)
-
-## Android Manga
-
-* 🌟[Mihon](https://mihon.app/) - [اضافات](https://keiyoushi.github.io/extensions/) / [نسخ با اشكال تانية](https://mihon.app/forks/) - قارئ مانجا
-
-* [Kotatsu](https://kotatsu.app/) - قارئ مانجا
-
-* [Neko](https://github.com/nekomangaorg/Neko) - قارئ مانجا
-
-* [Dantotsu](https://dantotsu.app/) - قارئ منجا
+* [HDO Box](https://forum.mobilism.org/search.php?keywords=HDO+Box&sr=topics&sf=titleonly) 
 
 ## Android ادوات  
 
