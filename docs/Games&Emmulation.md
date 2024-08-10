@@ -6,10 +6,9 @@ title: العاب / محاكاة
 حمل العاب , ROMs , ادوات للئلعاب
 
 ## ريباك (تثبيتة) 
-::: info
- الريباك دة العاب مضغوط جدا معمولة للناس الي عندهم نت محدود/بطئ ، لما تحملهم لازم تثبتهم علي جهازك فا التثبيت هياخد وقت طويل علي حسب قد اي مضغوط
+> الريباك دة العاب مضغوط جدا معمولة للناس الي عندهم نت محدود/بطئ ، لما تحملهم لازم تثبتهم علي جهازك فا التثبيت هياخد وقت طويل علي حسب قد اي مضغوط
 الناس الي منغير روابط هتلاقيهم في مواقع التورنت/البحث  
-:::
+
 * ⭐**[FitGirl](https://fitgirl-repacks.site)** تثبيت بحجم صغير بس مش ديما علية كل حاجة ابحث عن العبة و دوس علي magnet الزرار الاخضر الي تحت صورت العبة هيفتح برنام التورنت معاك اختار الي انت عايزو
 
 * ⭐**[DODI Repacks](https://dodi-repacks.site/)** ([رابط تاني](https://dodi-repacks.download/)) (نفس الأول بس سعات بيبقا في حجات زيادة بس مساحة بتبقا اكبر من الاول معظم الوقت اختار التورنت حمل الفايل اتأكد انو .Torrent افتحو هيفتح برنامج التورنت اختار الي انت عايزو) (استخدم adblock)
@@ -108,8 +107,8 @@ Chovka [RuTor Profile](http://rutor.info/browse/0/0/1642915/0) | [Telegram](http
 
 * [Ziperto](https://www.ziperto.com) - Nintendo Switch 
 
-## Emulators (محاكيات) 
-> -> **ملحوظة: في برامج هتحتاج فيلات BIOS/key هتلاقيهم متعلمين ب \* .** ->
+## Emulators (برامج محاكاة) 
+> **ملحوظة: في برامج هتحتاج فيلات BIOS/key هتلاقيهم متعلمين ب \* .**
 
 * [GameTechWiki](https://emulation.gametechwiki.com/) - The Emulation Wiki - هتلاقي فيلات الBIOS علي الموقع دة
 
@@ -149,7 +148,7 @@ Chovka [RuTor Profile](http://rutor.info/browse/0/0/1642915/0) | [Telegram](http
  
 * [Flycast](https://github.com/flyinghead/flycast) | [redream](https://redream.io/) - ل Dreamcast games.
  
-\* في برامج ممكن تحتاج BIOS/Key عشان تشتغل
+> \* في برامج ممكن تحتاج BIOS/Key عشان تشتغل
 
 ***
 

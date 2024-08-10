@@ -15,9 +15,7 @@ title: ادوات العاب
 * [Map Genie](https://mapgenie.io/) خرائط العاب
 
 ## (Trainers) برامج غش 
-::: info
-دول مش للألعاب الاونلاين متستخدمش دول في العاب اونلاين 
-:::
+> دول مش للألعاب الاونلاين متستخدمش دول في العاب اونلاين 
 
 * [FLiNG Trainers](https://flingtrainer.com/)
  

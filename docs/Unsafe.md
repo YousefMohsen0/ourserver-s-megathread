@@ -19,7 +19,7 @@ title: غير موثوق بيهم
 * Any "cracked" VPN.
 
 ## مواقع غير موثوق بيها
-ملحوظة: حتي لو العبة مثلا مش مشهورة و ملقتهاش غير علي موقع مش امان شفها علي cs.rin.ru هتلاقي ملفات العبة موجودة مش متكراكة بس في ناس في التعليقات عملينلها كراك
+> ملحوظة: حتي لو العبة مثلا مش مشهورة و ملقتهاش غير علي موقع مش امان شفها علي cs.rin.ru هتلاقي ملفات العبة موجودة مش متكراكة بس في ناس في التعليقات عملينلها كراك
 
 * **IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM, crypto miners, as well as malware, and exploit you for ad revenue.** 
 
@@ -72,7 +72,7 @@ title: غير موثوق بيهم
 
 
 ## رافعين غير موثوق بيهم
-ممكن تلاقي ناس منهم علي مواقع التورنت او البحث خلي بالك و متحملش منهم ممكن برضو ناس تظهر من مواقع غير الموثوق بيها متحملش منهم
+> ممكن تلاقي ناس منهم علي مواقع التورنت او البحث خلي بالك و متحملش منهم ممكن برضو ناس تظهر من مواقع غير الموثوق بيها متحملش منهم
 
 * **IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM, crypto miners, as well as malware, and exploit you for ad revenue.** 
 
