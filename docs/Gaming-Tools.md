@@ -2,9 +2,9 @@
 
 # ادوات ل العاب معينة 
 
-#Minecraft Tools 
+## Minecraft Tools 
 
-## Launchers
+### Launchers
 
 * 🌟[PrismLauncher](https://prismlauncher.org/)/[ازاي تشغلو مكركة](https://rentry.co/Prism4Free) - Feature-rich Launcher 
 
@@ -14,7 +14,7 @@
 
 * [SkLauncher](https://skmedix.pl/) - سهل استخدامو / استخدم Adblock لما تيجي تحمل 
 
-## Optimization Mods 
+### Optimization Mods 
 
 * 🌟[Fabulously Optimized](https://download.fo/) - Modpack
 
@@ -24,7 +24,7 @@
 
 [OptiFine ](https://optifine.net/), [Ferrite Core](https://modrinth.com/mod/ferrite-core), [Caffeine](https://github.com/CaffeineMC), [Lithium](https://modrinth.com/mod/lithium), [Ares](https://www.aresclient.com/), [VulkanMod](https://github.com/xCollateral/VulkanMod)
 
-# ادوات العاب عشوائية
+## ادوات العاب عشوائية
 
 * 🌐[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania) - Indexes بتاعتTrackmania
 
@@ -36,7 +36,7 @@
 
 * [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - بيعدل علي Save لعبة Undertale
 
-# ادوات عامة
+## ادوات عامة
 
 * [CrackWatcher](https://crackwatcher.com/) / [/r/CrackWatch](https://www.reddit.com/r/CrackWatch/) / [CWWatch](https://cwwatch.net/) بيخليك تعرف العبة متكركة ولا لا
 
@@ -46,7 +46,7 @@
 
 * [Map Genie](https://mapgenie.io/) خرائط العاب
 
-# (Trainers) برامج غش 
+## (Trainers) برامج غش 
 > دول مش للألعاب الاونلاين متستخدمش دول في العاب اونلاين 
 
 * [FLiNG Trainers](https://flingtrainer.com/)
