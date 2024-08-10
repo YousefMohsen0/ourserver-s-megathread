@@ -1,6 +1,5 @@
 import { defineConfig } from 'vitepress'
 
-
 export default defineConfig({
   title: "OSW",
   description: "Our Server's Wiki",
@@ -57,13 +56,12 @@ export default defineConfig({
     footer: {
       message: 'made with ❤',
       copyright: '© 2024 YousefMohsen'
-    },
-export default {
-  lastUpdated: true
     }, 
 
     search: {
       provider: 'local'
-    }
+    },
+
+    lastUpdated: true
   }
 })
