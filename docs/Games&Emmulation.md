@@ -15,7 +15,7 @@ title: العاب / محاكاة
 
 * [ARMGDDN](https://t.me/ARMGDDNGames) جروب تلجرام
 
-Chovka [RuTor Profile](http://rutor.info/browse/0/0/1642915/0) | [Telegram](https://repack.info/)
+* Chovka [RuTor Profile](http://rutor.info/browse/0/0/1642915/0) | [Telegram](https://repack.info/)
  
 * [CPG Repacks](https://cpgrepacks.site) 
  
