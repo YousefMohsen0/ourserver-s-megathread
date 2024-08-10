@@ -18,8 +18,8 @@ export default defineConfig({
           items: [
             { text: '📚دليل المبتدئين', link: '/beginners-guide' },
             { text: '⚠مهم', link: '/important' },
-            { text: '📺افلام / مسلسلات / انمي', link: '/Movies-TV-Anime' },
             { text: '🔍مواقع بحث', link: '/CSEs' },
+            { text: '📺افلام / مسلسلات / انمي', link: '/Movies-TV-Anime' },
             { text: '🎮العاب / محاكاة', link: '/Games&Emmulation' },
             { text: '🎵موسيقة / بودكاست / راديو', link: '/Music-Podcasts-Radio' },
             { text: '📗كتب / كوميكس / مانجا', link: '/Books-Comics-Manga' },
