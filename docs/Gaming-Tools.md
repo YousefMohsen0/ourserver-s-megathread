@@ -23,7 +23,7 @@
 
 ## ادوات ل العاب معينة
 
-## ادوات لالعاب معينة
+### ادوات لالعاب معينة
 
 * 🌐[Awesome Trackmania](https://github.com/EvoEsports/awesome-trackmania) - Indexes بتاعتTrackmania
 
@@ -35,9 +35,9 @@
 
 * [Flowey's Time Machine](https://crumblingstatue.github.io/FloweysTimeMachine/) - بيعدل علي Save لعبة Undertale 
 
-## Minecraft Tools 
+#### Minecraft Tools 
 
-## Launchers
+##### Launchers
 
 * 🌟[PrismLauncher](https://prismlauncher.org/)/[ازاي تشغلو مكركة](https://rentry.co/Prism4Free) - Feature-rich Launcher 
 
@@ -47,7 +47,7 @@
 
 * [SkLauncher](https://skmedix.pl/) - سهل استخدامو / استخدم Adblock لما تيجي تحمل 
 
-## Optimization Mods 
+##### Optimization Mods 
 
 * 🌟[Fabulously Optimized](https://download.fo/) - Modpack
 
