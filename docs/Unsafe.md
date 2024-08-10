@@ -2,12 +2,13 @@
 title: غير موثوق بيهم
 ---
 
+<div dir="rtl">
 
 # غير موثوق بيهم
 مواقع غير موثوق بيهم
 
 ## برامج غير موثوق بيها
-
+</div>
 * BitTorrent/μTorrent - Has baked in ads, trackers, and even BTC miners loaded with their software. The "safe version" of µTorrent, v2.2.1,  isn't to be trusted aswell due to confirmed security exploits.
 
 * Bitlord - Malware risk.
@@ -17,10 +18,10 @@ title: غير موثوق بيهم
 * Avast - Notorious for collecting and selling user data.
 
 * Any "cracked" VPN.
-
+<div dir="rtl">
 ## مواقع غير موثوق بيها
 > ملحوظة: حتي لو العبة مثلا مش مشهورة و ملقتهاش غير علي موقع مش امان شفها علي cs.rin.ru هتلاقي ملفات العبة موجودة مش متكراكة بس في ناس في التعليقات عملينلها كراك
-
+</div>
 * **IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM, crypto miners, as well as malware, and exploit you for ad revenue.** 
 
 * **SteamUnlocked / GOG Unlocked / ROMs Unlocked - slow downloads, malicious link redirects and uploads stolen from IGG Games and nosTEAM.**
@@ -70,10 +71,10 @@ title: غير موثوق بيهم
 
 * Wifi4games - malware downloads.
 
-
+<div dir="rtl">
 ## رافعين غير موثوق بيهم
 > ممكن تلاقي ناس منهم علي مواقع التورنت او البحث خلي بالك و متحملش منهم ممكن برضو ناس تظهر من مواقع غير الموثوق بيها متحملش منهم
-
+</div>
 * **IGG Games / PCGamesTorrents / LoadGames / GamesTorrents - they doxxed mercs213 (owner of GoodOldDownloads), package their own DRM, crypto miners, as well as malware, and exploit you for ad revenue.** 
 
 * **Any user from The Pirate Bay / TPB**
