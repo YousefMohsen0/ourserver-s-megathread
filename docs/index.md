@@ -8,7 +8,7 @@ hero:
   text: "Our Server's Wiki"
   tagline: موسوعة قرصنة
   image:
-    src: /main logo.png
+    src: /public/logo.png
     alt: Our Server's Icon
   actions:
     - theme: brand
@@ -16,7 +16,7 @@ hero:
       link: /beginners-guide
     - theme: alt
       text: تحديثات
-      link: /api-examples      
+      link: /updates     
     - theme: alt
       text: ساعدنا
       link: /Help-us
