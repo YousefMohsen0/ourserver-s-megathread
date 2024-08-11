@@ -1,4 +1,4 @@
-8import { defineConfig } from 'vitepress'
+import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "OSW",
