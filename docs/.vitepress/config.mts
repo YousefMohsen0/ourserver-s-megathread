@@ -68,6 +68,6 @@ export default defineConfig({
   },
   head: [
     ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }],
-    ['link', { rel: 'stylesheet', href: '/rtl.css' }] // Include the RTL CSS
+    ['link', { rel: 'stylesheet', href: '/rtl.css' }] // Ensure this line is correct
   ]
 })
