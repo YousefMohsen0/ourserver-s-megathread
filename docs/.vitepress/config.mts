@@ -67,6 +67,7 @@ export default defineConfig({
     outline: [2, 3, 4, 5, 6]
   },
   head: [
-    ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }]
+    ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }],
+    ['link', { rel: 'stylesheet', href: '/rtl.css' }] // Include the RTL CSS
   ]
 })
