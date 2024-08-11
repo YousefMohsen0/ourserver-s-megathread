@@ -68,5 +68,24 @@ export default defineConfig({
   },
   head: [
     ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }]
-  ]
+  ],
+
+  vite: {
+    css: {
+      preprocessorOptions: {
+        css: {
+          additionalData: `
+            body, .VPNavBar, .VPSidebar, .VPContent {
+              direction: rtl;
+              text-align: right;
+            }
+
+            .VPNavBar-item, .VPSidebar-link {
+              text-align: right;
+            }
+          `
+        }
+      }
+    }
+  }
 })
