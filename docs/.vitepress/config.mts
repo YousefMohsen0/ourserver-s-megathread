@@ -1,4 +1,4 @@
-import { defineConfig } from 'vitepress'
+8import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: "OSW",
@@ -67,7 +67,6 @@ export default defineConfig({
     outline: [2, 3, 4, 5, 6]
   },
   head: [
-    ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }],
-    ['link', { rel: 'stylesheet', href: '/rtl.css' }] // Ensure this line is correct
+    ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }]
   ]
 })
