@@ -55,7 +55,7 @@ export default defineConfig({
     ],
     footer: {
       message: 'made with ❤',
-      copyright: '© 2024 YousefMohsen'
+      copyright: '© 2024, YousefMohsen, FMHY.net'
     }, 
 
     search: {
