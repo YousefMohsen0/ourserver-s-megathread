@@ -67,16 +67,6 @@ export default defineConfig({
     outline: [2, 3, 4, 5, 6]
   },
   head: [
-    ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }],
-    ['style', {}, `
-      body, .VPNavBar, .VPSidebar, .VPContent {
-        direction: rtl;
-        text-align: right;
-      }
-
-      .VPNavBar-item, .VPSidebar-link {
-        text-align: right;
-      }
-    `]
+    ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }]
   ]
 })
