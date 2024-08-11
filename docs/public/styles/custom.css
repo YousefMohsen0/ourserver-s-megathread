@@ -1,9 +1,0 @@
-/* styles/custom.css */
-body, .VPNavBar, .VPSidebar, .VPContent {
-    direction: rtl;
-    text-align: right;
-}
-
-.VPNavBar-item, .VPSidebar-link {
-    text-align: right;
-}
