@@ -54,8 +54,8 @@ export default defineConfig({
       { icon: 'github', link: 'https://github.com/YousefMohsen0' }
     ],
     footer: {
-      message: 'made with ❤',
-      copyright: '© 2024, YousefMohsen, FMHY.net'
+      message: 'made with ❤ Thanks to FMHY.net',
+      copyright: '© 2024 YousefMohsen'
     }, 
 
     search: {
