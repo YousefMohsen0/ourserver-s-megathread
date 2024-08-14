@@ -107,8 +107,12 @@
 
 * [Ziperto](https://www.ziperto.com) - Nintendo Switch 
 
+<div dir="rtl">
+
 ## Emulators (برامج محاكاة) 
 > **ملحوظة: في برامج هتحتاج فيلات BIOS/key هتلاقيهم متعلمين ب \* .**
+
+</div>
 
 * [GameTechWiki](https://emulation.gametechwiki.com/) - The Emulation Wiki - هتلاقي فيلات الBIOS علي الموقع دة
 
