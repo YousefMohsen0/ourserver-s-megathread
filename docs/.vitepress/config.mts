@@ -64,7 +64,12 @@ export default defineConfig({
 
     lastUpdated: true,
 
-    outline: [2, 3, 4, 5, 6]
+    outline: [2, 3, 4, 5, 6],
+
+    editLink: {
+      pattern: 'https://github.com/YousefMohsen0/OurServersWiki/edit/main/docs/:path',
+      text: '📝 Edit this page'
+    }
   },
   head: [
     ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }]
