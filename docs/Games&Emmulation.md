@@ -151,12 +151,12 @@
 * [Mesen2](https://github.com/SourMesen/Mesen2) | [puNes](https://github.com/punesemu/puNES) - ل NES games.
  
 * [Flycast](https://github.com/flyinghead/flycast) | [redream](https://redream.io/) - ل Dreamcast games.
- 
-> \* في برامج ممكن تحتاج BIOS/Key عشان تشتغل
-
-***
 
 <div dir="rtl">
+ 
+> \* العلامة دي معناها ان البرنامج محتاج BIOS/Key عشان يتشغل
+
+***
 
 # [ادوات العاب](/Gaming-Tools)
 
