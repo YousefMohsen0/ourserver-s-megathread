@@ -85,7 +85,7 @@
 
 </div>
 
-* 🌟[/r/roms megathread](https://r-roms.gitlab.io/megathread/) - علية كل ال consoles اختار الي انت عايزو و اختار اول موقع و ابحث عن العبة
+* 🌟[/r/roms megathread](https://r-roms.gitlab.io/) - علية كل ال consoles اختار الي انت عايزو و اختار اول موقع و ابحث عن العبة
  
 * 🌟[ROM Heaven](https://romheaven.com/)
 
