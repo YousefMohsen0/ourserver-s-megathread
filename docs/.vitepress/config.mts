@@ -20,9 +20,9 @@ export default defineConfig({
             { text: '📱اندرويد', link: '/Android' },
             { text: '📗كتب / كوميكس / مانجا', link: '/Books-Comics-Manga' },
             { text: '🔍مواقع بحث', link: '/CSEs' },
-            { text: '🎮العاب / محاكاة', link: '/Games&Emmulation' },
-            { text: '🎵موسيقة / بودكاست / راديو', link: '/Music-Podcasts-Radio' },
+            { text: '🎮العاب / محاكاة', link: '/Games&Emulation' },
             { text: '📺افلام / مسلسلات', link: '/Movies-TV' },
+            { text: '🎵موسيقى / بودكاست / راديو', link: '/Music-Podcasts-Radio' },
             { text: '🐼اوتاكو', link: '/otaku' }
           ]
         },
@@ -44,7 +44,7 @@ export default defineConfig({
           text: 'ملحوظة 📝',
           collapsed: true, 
           items: [
-            { text: '🌟 عليه اقبال كبير من مجتمع القرصنة'},
+            { text: '⭐ عليه اقبال كبير من مجتمع القرصنة'},
             { text: '🌐 فهارس عليها معلومات للحاجة'}
           ]
         }
