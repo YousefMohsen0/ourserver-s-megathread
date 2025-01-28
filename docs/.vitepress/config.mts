@@ -17,12 +17,13 @@ export default defineConfig({
           items: [
             { text: '📚دليل المبتدئين', link: '/beginners-guide' },
             { text: '⚠مهم', link: '/important' },
+            { text: '📱اندرويد', link: '/Android' },
+            { text: '📗كتب / كوميكس / مانجا', link: '/Books-Comics-Manga' },
             { text: '🔍مواقع بحث', link: '/CSEs' },
-            { text: '📺افلام / مسلسلات / انمي', link: '/Movies-TV-Anime' },
             { text: '🎮العاب / محاكاة', link: '/Games&Emmulation' },
             { text: '🎵موسيقة / بودكاست / راديو', link: '/Music-Podcasts-Radio' },
-            { text: '📗كتب / كوميكس / مانجا', link: '/Books-Comics-Manga' },
-            { text: '📱اندرويد', link: '/Android' }
+            { text: '📺افلام / مسلسلات', link: '/Movies-TV' },
+            { text: '🐼اوتاكو', link: '/otaku' }
           ]
         },
         {
@@ -62,9 +63,16 @@ export default defineConfig({
       provider: 'local'
     },
 
-    lastUpdated: true,
+    lastUpdated: {
+      text: 'Last Updated',
+      formatOptions: {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric'
+      }
+    },
 
-    outline: [2, 3, 4, 5, 6],
+    outline: [2, 3],
 
     editLink: {
       pattern: 'https://github.com/YousefMohsen0/OurServersWiki/edit/main/docs/:path',
@@ -73,5 +81,6 @@ export default defineConfig({
   },
   head: [
     ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }]
-  ]
+  ],
+  ignoreDeadLinks: true
 })

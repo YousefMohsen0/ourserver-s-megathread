@@ -1,4 +1,12 @@
 node_modules
+**/.vitepress/dist
+**/.vitepress/cache
+dev-dist
+*.log*
+.nitro
+.cache
+.output
+.env
 dist
-.temp
-cache
+.eslintcache
+package-lock.json

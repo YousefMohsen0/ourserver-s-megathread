@@ -17,7 +17,7 @@
 
 ## برامج مفيدة
 
-* 🌟[7-Zip](https://www.7-zip.org/) - ل فتح ملفات 7-zip,rar
+* ⭐[7-Zip](https://www.7-zip.org/) - ل فتح ملفات 7-zip,rar
  
 * [WinRAR](https://www.win-rar.com/) - استخدم دة مع ملفات rar خصوصا لو كانو كذا جزء
 
@@ -27,9 +27,9 @@
 
 ## برامج تورنت
 
-* 🌟[qBittorrent](https://www.qbittorrent.org/download.php) - انصح بيه جدا
+* ⭐[qBittorrent](https://www.qbittorrent.org/download.php) - انصح بيه جدا
 
-* 🌟[LibreTorrent](https://github.com/proninyaroslav/libretorrent/releases/latest) - ل الاندرويد
+* ⭐[LibreTorrent](https://github.com/proninyaroslav/libretorrent/releases/latest) - ل الاندرويد
 
 * [Transmission](https://transmissionbt.com/download/)
 
@@ -45,9 +45,9 @@
 
 ## برامج تحميل عادي
 
-* 🌟[FreeDownloadManager](https://www.freedownloadmanager.org/) - بيشتغل torrenting/download
+* ⭐[FreeDownloadManager](https://www.freedownloadmanager.org/) - بيشتغل torrenting/download
 
-* 🌟[JDownloader2](http://jdownloader.org/jdownloader2) 
+* ⭐[JDownloader2](http://jdownloader.org/jdownloader2) 
 
 * [Internet Download Manager](https://www.internetdownloadmanager.com/download.html)
 

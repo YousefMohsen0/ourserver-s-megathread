@@ -85,11 +85,11 @@
 
 </div>
 
-* 🌟[/r/roms megathread](https://r-roms.gitlab.io/megathread/) - علية كل ال consoles اختار الي انت عايزو و اختار اول موقع و ابحث عن العبة
+* ⭐[/r/roms megathread](https://r-roms.gitlab.io/megathread/) - علية كل ال consoles اختار الي انت عايزو و اختار اول موقع و ابحث عن العبة
  
-* 🌟[ROM Heaven](https://romheaven.com/)
+* ⭐[ROM Heaven](https://romheaven.com/)
 
-* 🌟[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - WiiU
+* ⭐[WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - WiiU
 
 * [Vimm's Lair](https://vimm.net/?p=vault)
 
