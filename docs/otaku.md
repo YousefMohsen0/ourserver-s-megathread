@@ -2,15 +2,6 @@
 
 ## بث
 
-::: details الاشكال
-
-* باتش (السيزون كامل) -> <span style="display: inline-flex; align-items: center;">📦</span>
-* تحميل تورنت -> <span style="display: inline-flex; align-items: center;">🧲</span>
-* محتاج اكونت -> <span style="display: inline-flex; align-items: center;">🔒</span>
-* Blu-ray (جودة عالية) -> <span style="display: inline-flex; align-items: center;">💿</span>
-
-:::
-
 ### عربي
 
 * [WitAnime](https://witanime.quest/)
