@@ -67,6 +67,7 @@ features:
       --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #bd34fe 30%, #41d1ff);
       --vp-home-hero-image-background-image: linear-gradient(-45deg, #bd34fe 50%, #47caff 50%);
       --vp-home-hero-image-filter: blur(44px);
+      --vp-home-hero-name-text-shadow: 0 0 10px rgba(255, 255, 255, 0.7), 0 0 20px rgba(255, 255, 255, 0.7);
     }
 
     @media (min-width: 640px) {
@@ -88,6 +89,12 @@ features:
     .some-element {
       margin-right: 0;
       margin-left: auto;
+    }
+
+    .vp-home-hero-name {
+      color: var(--vp-home-hero-name-color);
+      background: var(--vp-home-hero-name-background);
+      text-shadow: var(--vp-home-hero-name-text-shadow);
     }
   </style>
 </div>
