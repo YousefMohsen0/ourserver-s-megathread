@@ -23,7 +23,7 @@ export default defineConfig({
             { text: '🎮العاب / محاكاة', link: '/Games&Emulation' },
             { text: '📺افلام / مسلسلات', link: '/Movies-TV' },
             { text: '🎵موسيقى / بودكاست / راديو', link: '/Music-Podcasts-Radio' },
-            { text: '🐼اوتاكو', link: '/otaku' }
+            { text: '🎌اوتاكو', link: '/otaku' }
           ]
         },
         {
