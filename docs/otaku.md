@@ -33,7 +33,7 @@
 
 ## <div dir="rtl">تحميل</div>
 
-::: details <div dir="rtl">الاشكال</div>
+::: details الاشكال
 
 <div dir="rtl">
 
