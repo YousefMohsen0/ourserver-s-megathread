@@ -50,22 +50,22 @@
 
 ### <div dir="rtl">عربي</div>
 
-* [Anime Phoenix](https://anime-phoenix.com/) ![📦 💿](#)
-* [Anime Uploader](https://www.animeuploader.com/) ![📦 💩](#)
+* [Anime Phoenix](https://anime-phoenix.com/) <Badge text="📦 💿"/>
+* [Anime Uploader](https://www.animeuploader.com/) <Badge text="📦 💩"/>
 
 ### <div dir="rtl">انجليزي</div>
 <div dir="rtl">
 > انجليزي مش معناها ان الترجمة انجليزي الموقع الي انجليزي اما الترجة فا مش ديما هتلاقي العربي لو مش نازل ب الترجمة فا انزل ل [سابتايتلز](#سابتايتلز)
 </div>
 
-* ⭐ **[Nyaa](https://nyaa.si/)** ![📦 🧲 💿](#)
-* ⭐ **[Kayoanime](https://kayoanime.com/)** ![📦](#)
-* ⭐ **[hi10anime](https://hi10anime.com/)** ![🔒 📦 🧲](#)
-* [JPFiles](https://jpfiles.net/) ![💿](#)
-* [AnimeRSS](https://animerss.com/) ![💿](#)
-* [Mkvseries](https://mkvseries.com/) ![📦](#)
-* [Anime out](https://www.animeout.xyz/) ![🔒](#)
-* [Chauthanh](https://chauthanh.info/) ![🔒](#)
+* ⭐ **[Nyaa](https://nyaa.si/)** <Badge text="📦 🧲 💿"/>
+* ⭐ **[Kayoanime](https://kayoanime.com/)** <Badge text="📦"/>
+* ⭐ **[hi10anime](https://hi10anime.com/)** <Badge text="🔒 📦 🧲"/>
+* [JPFiles](https://jpfiles.net/) <Badge text="💿"/>
+* [AnimeRSS](https://animerss.com/) <Badge text="💿"/>
+* [Mkvseries](https://mkvseries.com/) <Badge text="📦"/>
+* [Anime out](https://www.animeout.xyz/) <Badge text="🔒"/>
+* [Chauthanh](https://chauthanh.info/) <Badge text="🔒"/>
 ___
 
 # <div dir="rtl">سابتايتلز</div>
