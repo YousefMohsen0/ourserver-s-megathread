@@ -1,8 +1,10 @@
-# انمي
+# <div dir="rtl">انمي</div>
 
-## بث
+## <div dir="rtl">بث</div>
 
-### عربي
+### <div dir="rtl">عربي</div>
+
+<div dir="rtl">
 
 * [WitAnime](https://witanime.quest/)
 * [Anpiime4up](https://anpiime4up.online/)
@@ -12,8 +14,12 @@
 * [Shahiid Anime](https://shahiid-anime.net/) 
 * [XSaniime](https://xsaniime.net/) 
 
-### انجليزي
+</div>
+
+### <div dir="rtl">انجليزي</div>
+<div dir="rtl">
 > انجليزي مش معناها ان الترجمة انجليزي الموقع الي انجليزي اما الترجة فا مش ديما هتلاقي العربي لو مش نازل ب الترجمة فا انزل ل [سابتيتلز](#سابتيتلز)
+</div>
 
 * ⭐ **[Miruro](https://www.miruro.tv/)**, [2](https://www.miruro.online/), [3](https://www.miruro.com/)
 * ⭐ **[HiAnime](https://hianime.to/)**, [2](https://hianime.nz/), [3](https://hianime.mn/), [4](https://hianime.sx/)
@@ -28,25 +34,29 @@
 * [Sudatchi](https://sudatchi.com/)
 * [AniZone](https://anizone.to/)
 
-## تحميل
+## <div dir="rtl">تحميل</div>
 
-::: details الاشكال
+::: details <div dir="rtl">الاشكال</div>
 
+<div dir="rtl">
 * باتش (السيزون كامل) -> <span style="display: inline-flex; align-items: center;">📦</span>
 * تحميل تورنت -> <span style="display: inline-flex; align-items: center;">🧲</span>
 * محتاج اكونت -> <span style="display: inline-flex; align-items: center;">🔒</span>
 * Blu-ray (جودة عالية) -> <span style="display: inline-flex; align-items: center;">💿</span>
 * جودة وحشة -> <span style="display: inline-flex; align-items: center;">💩</span>
+</div>
 
 :::
 
-### عربي
+### <div dir="rtl">عربي</div>
 
 * [Anime Phoenix](https://anime-phoenix.com/) <Badge text="📦 💿"/>
 * [Anime Uploader](https://www.animeuploader.com/) <Badge text="📦 💩"/>
 
-### انجليزي
+### <div dir="rtl">انجليزي</div>
+<div dir="rtl">
 > انجليزي مش معناها ان الترجمة انجليزي الموقع الي انجليزي اما الترجة فا مش ديما هتلاقي العربي لو مش نازل ب الترجمة فا انزل ل [سابتيتلز](#سابتيتلز)
+</div>
 
 * ⭐ **[Nyaa](https://nyaa.si/)** <Badge text="📦 🧲 💿"/>
 * ⭐ **[Kayoanime](https://kayoanime.com/)** <Badge text="📦"/>
