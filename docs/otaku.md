@@ -4,8 +4,6 @@
 
 ### <div dir="rtl">عربي</div>
 
-<div dir="rtl">
-
 * [WitAnime](https://witanime.quest/)
 * [Anpiime4up](https://anpiime4up.online/)
 * [AnimeLek](https://animelek.vip/)
@@ -13,8 +11,6 @@
 * [OkAnime](https://www.okanime.tv/) 
 * [Shahiid Anime](https://shahiid-anime.net/) 
 * [XSaniime](https://xsaniime.net/) 
-
-</div>
 
 ### <div dir="rtl">انجليزي</div>
 <div dir="rtl">
@@ -40,9 +36,13 @@
 
 <div dir="rtl">
 * باتش (السيزون كامل) -> <span style="display: inline-flex; align-items: center;">📦</span>
+
 * تحميل تورنت -> <span style="display: inline-flex; align-items: center;">🧲</span>
+
 * محتاج اكونت -> <span style="display: inline-flex; align-items: center;">🔒</span>
+
 * Blu-ray (جودة عالية) -> <span style="display: inline-flex; align-items: center;">💿</span>
+
 * جودة وحشة -> <span style="display: inline-flex; align-items: center;">💩</span>
 </div>
 
@@ -50,22 +50,22 @@
 
 ### <div dir="rtl">عربي</div>
 
-* [Anime Phoenix](https://anime-phoenix.com/) <Badge text="📦 💿"/>
-* [Anime Uploader](https://www.animeuploader.com/) <Badge text="📦 💩"/>
+* [Anime Phoenix](https://anime-phoenix.com/) ![📦 💿](#)
+* [Anime Uploader](https://www.animeuploader.com/) ![📦 💩](#)
 
 ### <div dir="rtl">انجليزي</div>
 <div dir="rtl">
 > انجليزي مش معناها ان الترجمة انجليزي الموقع الي انجليزي اما الترجة فا مش ديما هتلاقي العربي لو مش نازل ب الترجمة فا انزل ل [سابتيتلز](#سابتيتلز)
 </div>
 
-* ⭐ **[Nyaa](https://nyaa.si/)** <Badge text="📦 🧲 💿"/>
-* ⭐ **[Kayoanime](https://kayoanime.com/)** <Badge text="📦"/>
-* ⭐ **[hi10anime](https://hi10anime.com/)** <Badge text="🔒 📦 🧲"/>
-* [JPFiles](https://jpfiles.net/) <Badge text="💿"/>
-* [AnimeRSS](https://animerss.com/) <Badge text="💿"/>
-* [Mkvseries](https://mkvseries.com/) <Badge text="📦"/>
-* [Anime out](https://www.animeout.xyz/) <Badge text="🔒"/>
-* [Chauthanh](https://chauthanh.info/) <Badge text="🔒"/>
+* ⭐ **[Nyaa](https://nyaa.si/)** ![📦 🧲 💿](#)
+* ⭐ **[Kayoanime](https://kayoanime.com/)** ![📦](#)
+* ⭐ **[hi10anime](https://hi10anime.com/)** ![🔒 📦 🧲](#)
+* [JPFiles](https://jpfiles.net/) ![💿](#)
+* [AnimeRSS](https://animerss.com/) ![💿](#)
+* [Mkvseries](https://mkvseries.com/) ![📦](#)
+* [Anime out](https://www.animeout.xyz/) ![🔒](#)
+* [Chauthanh](https://chauthanh.info/) ![🔒](#)
 ___
 
 # سابتيتلز 
