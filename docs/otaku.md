@@ -78,14 +78,14 @@ ___
 
 * ⭐**[SupDL](https://subdl.com)**
 * ⭐ **[KoKoBoKo0](https://t.me/+VsSZt_n3nm3RDn3Q) / [Subdl](https://subdl.com/u/KokoBoKo0) / [Twitter](https://twitter.com/KoKoBoKo0)**
-* ⭐ **[mugi-subs](https://www.mugi-subs.com/?m=1)**
+* ⭐ **[mugi-subs](https://www.mugi-subs.com/)**
 * ⭐ **[celestial-dragons](https://www.celestial-dragons.com/)**
-* [kiyoshi-subs](http://www.kiyoshi-subs.com/?m=1)
-* [anime-san](https://www.anime-san.com/) 
+* ⭐ **[kiyoshi-subs](https://kiyoshiifansubs.blogspot.com/)**
+* ⭐ **[anime-san](https://www.anime-san.com/)**
 ___
 # Tools
 
-* [anichart](https://anichart.net/) 
+* ⭐ **[anichart](https://anichart.net/)**
 * [livechart](https://www.livechart.me/)
 
 
