@@ -76,7 +76,7 @@ ___
 
 # <div dir="rtl">سابتايتلز</div>
 
-* ⭐**[SupDL](https://subdl.com)**
+* ⭐ **[SupDL](https://subdl.com)**
 * ⭐ **[KoKoBoKo0](https://t.me/+VsSZt_n3nm3RDn3Q) / [Subdl](https://subdl.com/u/KokoBoKo0) / [Twitter](https://twitter.com/KoKoBoKo0)**
 * ⭐ **[mugi-subs](https://www.mugi-subs.com/)**
 * ⭐ **[celestial-dragons](https://www.celestial-dragons.com/)**
