@@ -72,7 +72,6 @@
 * [Mkvseries](https://mkvseries.com/) <Badge text="📦"/>
 * [Anime out](https://www.animeout.xyz/) <Badge text="🔒"/>
 * [Chauthanh](https://chauthanh.info/) <Badge text="🔒"/>
-___
 
 ## <div dir="rtl">سابتايتلز</div>
 
@@ -82,7 +81,7 @@ ___
 * ⭐ **[celestial-dragons](https://www.celestial-dragons.com/)**
 * ⭐ **[kiyoshi-subs](https://kiyoshiifansubs.blogspot.com/)**
 * ⭐ **[anime-san](https://www.anime-san.com/)**
-___
+
 ## <div dir="rtl">ادوات</div>
 
 * ⭐ **[anichart](https://anichart.net/)**
