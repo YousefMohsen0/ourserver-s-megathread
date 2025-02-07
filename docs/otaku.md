@@ -74,7 +74,7 @@
 * [Chauthanh](https://chauthanh.info/) <Badge text="🔒"/>
 ___
 
-# <div dir="rtl">سابتايتلز</div>
+## <div dir="rtl">سابتايتلز</div>
 
 * ⭐ **[SupDL](https://subdl.com)**
 * ⭐ **[KoKoBoKo0](https://t.me/+VsSZt_n3nm3RDn3Q) / [Subdl](https://subdl.com/u/KokoBoKo0) / [Twitter](https://twitter.com/KoKoBoKo0)**
@@ -83,7 +83,7 @@ ___
 * ⭐ **[kiyoshi-subs](https://kiyoshiifansubs.blogspot.com/)**
 * ⭐ **[anime-san](https://www.anime-san.com/)**
 ___
-# Tools
+## <div dir="rtl">ادوات</div>
 
 * ⭐ **[anichart](https://anichart.net/)**
 * [livechart](https://www.livechart.me/)
