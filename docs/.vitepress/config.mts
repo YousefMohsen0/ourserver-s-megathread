@@ -42,7 +42,7 @@ export default defineConfig({
           text: '➕زيادة',
           collapsed: false,
           items: [
-            { text: '❗ غير موثوق بيهم', link: '/unsafe' }
+            { text: '❗ غير موثوق بيهم', link: '/Unsafe' }
           ]
         },
         {
