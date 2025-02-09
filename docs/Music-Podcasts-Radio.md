@@ -1,6 +1,12 @@
+---
+title: اغاني / بودكاست / راديو
+description: اسمع علطول , حمل الاغاني , تورنت الاغاني
+outline: 'deep'
+---
+
 <div dir="rtl">
 
-# اغاني / بودكاست / راديو
+# <div dir="rtl"><span style="color:rgb(120, 179, 226); text-decoration: underline;">اغاني / بودكاست / راديو</span></div>
 اسمع علطول , حمل الاغاني , تورنت الاغاني
 
 ## ادوات سبوتفاي

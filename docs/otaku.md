@@ -1,3 +1,15 @@
+---
+title: اوتاكو
+description: كل ما يخص الاوتاكو من انمي و مانجا و اخبار
+outline: 'deep'
+---
+<div dir="rtl">
+
+# <div dir="rtl"><span style="color:rgb(120, 179, 226); text-decoration: underline;">اوتاكو</span></div>
+كل ما يخص الاوتاكو من انمي و مانجا و اخبار
+
+---
+
 # <div dir="rtl">انمي</div>
 
 ## <div dir="rtl">بث</div>
@@ -86,5 +98,12 @@
 
 * ⭐ **[anichart](https://anichart.net/)**
 * [livechart](https://www.livechart.me/)
-
-
+---
+# [مانجا](/reading#%D9%85%D8%A7%D9%86%D8%AC%D8%A7)
+---
+# [Light Novels](/reading#light-novels)
+---
+## <div dir="rtl">متابعة / اكتشاف</div>
+* ⭐ **[MyAnimeList](https://myanimelist.net/)** - مانجا / Light Novels
+* ⭐ **[Anilist](https://anilist.co/home)** - مانجا / Light Novels / Manhwa / Manhua
+</div>

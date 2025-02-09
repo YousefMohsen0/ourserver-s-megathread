@@ -1,6 +1,12 @@
+---
+title: دليل المبتدئين
+description: مش ب السرعة دي يا بحار ! اعمل كدة قبل اي حاجة
+outline: 'deep'
+---
+
 <div dir="rtl">
 
-#  دليل المبتدئين
+# <div dir="rtl"><span style="color:rgb(120, 179, 226); text-decoration: underline;">دليل المبتدئين</span></div>
 
 مش ب السرعة دي يا بحار ! اعمل كدة قبل اي حاجة
 

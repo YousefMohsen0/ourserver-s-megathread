@@ -1,6 +1,12 @@
+---
+title: مواقع بحث
+description: خلي بالك من الرافعن الغير موثوق فيهم
+outline: 'deep'
+---
+
 <div dir="rtl">
 
-# مواقع بحث
+# <div dir="rtl"><span style="color:rgb(120, 179, 226); text-decoration: underline;">مواقع بحث</span></div>
 > خلي بالك من الرافعن الغير موثوق فيهم
 
 * ⭐[1337x](https://1337x.to) - ابحث عن الحاجة اخترها و دوس علي magnet و اختار الي انت عايزو و حمل نصيحة لو هتحمل لعبة حمل من دول cs.rin.ru, 0xEMPRESS, anadius, DODI, FitGirl, KaOsKrew, s7on3r, TinyRepacks او ممكن تخش علي اعدادات Ublockorigin و تشغل فلتر فلتر يمنع الحجات الي مشكوك فيها - add ||1337x.vpnonly.site to uBlock Origin ->My Filters tab in uBlock settings

@@ -1,6 +1,12 @@
+---
+title: مهم
+description: حجات مهمة هتحتاجها
+outline: 'deep'
+---
+
 <div dir="rtl">
 
-# مهم
+# <div dir="rtl"><span style="color:rgb(120, 179, 226); text-decoration: underline;">مهم</span></div>
 حجات مهمة هتحتاجها
 
 ## تعريفات

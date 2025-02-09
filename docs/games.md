@@ -1,6 +1,12 @@
+---
+title: العاب
+description: حمل العاب , ROMs , ادوات للئلعاب
+outline: 'deep'
+---
+
 <div dir="rtl">
 
-# العاب 
+# <div dir="rtl"><span style="color:rgb(120, 179, 226); text-decoration: underline;">العاب</span></div> 
 حمل العاب , ROMs , ادوات للئلعاب
 
 ## ريباك (تثبيتة) 
@@ -155,9 +161,6 @@
 <div dir="rtl">
  
 > \* العلامة دي معناها ان البرنامج محتاج BIOS/Key عشان يتشغل
-
-***
-
-# [ادوات العاب](/Gaming-Tools)
+## [ادوات العاب](/Gaming-Tools)
 
 </div>

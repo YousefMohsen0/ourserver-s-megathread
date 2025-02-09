@@ -1,6 +1,12 @@
+---
+title: اندرويد
+description: برامج, تكريك , محاكاة
+outline: 'deep'
+---
+
 <div dir="rtl">
 
-# اندرويد
+# <div dir="rtl"><span style="color:rgb(120, 179, 226); text-decoration: underline;">اندرويد</span></div>
 برامج, تكريك , محاكاة
 
 ## Modded APKs
@@ -8,13 +14,13 @@
 
 * ⭐[Mobilism](https://forum.mobilism.org/viewforum.php?f=398) / [البرنامج](https://forum.mobilism.org/app/) - العاب / برامج / كتب
 
-* ⭐[PDALife](https://pdalife.com/)
-
-* ⭐[LiteAPKs](https://liteapks.com/)
-
 * ⭐[Modyolo](https://modyolo.com/)
 
 * ⭐[PlatinMods](https://platinmods.com/) - العاب
+
+* [PDALife](https://pdalife.com/)
+
+* [LiteAPKs](https://liteapks.com/)
 
 ## Untouched APKs 
 > APKs عادية
@@ -23,7 +29,7 @@
 
 * ⭐[UpToDown](https://en.uptodown.com/android)
 
-* ⭐[APKPure](https://apkpure.net/)
+* [APKPure](https://apkpure.net/)
 
 ## Android اصوات
 

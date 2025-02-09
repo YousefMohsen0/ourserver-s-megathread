@@ -1,6 +1,12 @@
+---
+title: ادوات ل العاب
+description: ادوات ل العاب معينة 
+outline: 'deep'
+---
+
 <div dir="rtl">
 
-# ادوات ل العاب معينة 
+# <div dir="rtl"><span style="color:rgb(120, 179, 226); text-decoration: underline;">ادوات ل العاب معينة</span></div>
 
 ## Minecraft Tools 
 

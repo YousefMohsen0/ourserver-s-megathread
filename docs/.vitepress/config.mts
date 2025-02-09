@@ -17,27 +17,32 @@ export default defineConfig({
           items: [
             { text: '📚دليل المبتدئين', link: '/beginners-guide' },
             { text: '⚠مهم', link: '/important' },
-            { text: '📱اندرويد', link: '/Android' },
-            { text: '📗كتب / كوميكس / مانجا', link: '/Books-Comics-Manga' },
-            { text: '🔍مواقع بحث', link: '/CSEs' },
-            { text: '🎮العاب / محاكاة', link: '/Games&Emulation' },
-            { text: '📺افلام / مسلسلات', link: '/Movies-TV' },
-            { text: '🎵موسيقى / بودكاست / راديو', link: '/Music-Podcasts-Radio' },
-            { text: '🎌اوتاكو', link: '/otaku' }
+            { text: '📢تحديثات', link: '/posts' }
+          ]
+        },
+        {
+          items: [
+            { text: '🎮العاب', link: '/games' },
+            { text: '📺افلام / مسلسلات', link: '/movies&TV' },
+            { text: '🎌اوتاكو', link: '/otaku' },
+            { text: '🎵موسيقى / بودكاست / راديو', link: '/music-podcasts-radio' },
+            { text: '📗 قرائة', link: '/reading' },
+            { text: '📱اندرويد', link: '/android' },
+            { text: '🔍مواقع بحث', link: '/CSEs' }
           ]
         },
         {
           text: '🛠ادوات',
           collapsed: false, 
           items: [
-            { text: '👾 ادوات العاب', link: '/Gaming-Tools' }
+            { text: '👾 ادوات العاب', link: '/gaming-Tools' }
           ]
         },
         {
           text: '➕زيادة',
           collapsed: false,
           items: [
-            { text: '❗ غير موثوق بيهم', link: '/Unsafe' }
+            { text: '❗ غير موثوق بيهم', link: '/unsafe' }
           ]
         },
         {
@@ -71,13 +76,11 @@ export default defineConfig({
         day: 'numeric'
       }
     },
-
-    outline: [2, 3],
-
-    editLink: {
-      pattern: 'https://github.com/YousefMohsen0/OurServersWiki/edit/main/docs/:path',
-      text: '📝 Edit this page'
-    }
+editLink: {
+  pattern: 'https://github.com/YousefMohsen0/OurServersWiki/edit/main/docs/:path',
+  text: '📝 Edit this page'
+},
+outline: 'deep',
   },
   head: [
     ['link', { rel: 'icon', href: '/logo.webp', type: 'image/png' }]
