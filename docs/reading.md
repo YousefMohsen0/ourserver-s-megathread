@@ -3,7 +3,7 @@ title: قرائة
 description: بتحب القراء او اوتاكو او بتحب الكوميكس هتلاقي الادب الي بتفضلو مجانا
 outline: 'deep'
 ---
-<div dir="ltr">
+<div dir="rtl">
 
 # <div dir="rtl"><span style="color:rgb(120, 179, 226); text-decoration: underline;">قرائة</span></div>
 <div dir="rtl">بتحب القراء او اوتاكو او بتحب الكوميكس هتلاقي الادب الي بتفضلو مجانا
