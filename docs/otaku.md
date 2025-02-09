@@ -102,7 +102,7 @@ outline: 'deep'
 # [مانجا](/reading#%D9%85%D8%A7%D9%86%D8%AC%D8%A7)
 ---
 # [Light Novels](/reading#light-novels)
----
+
 ## <div dir="rtl">متابعة / اكتشاف</div>
 * ⭐ **[MyAnimeList](https://myanimelist.net/)** - مانجا / Light Novels
 * ⭐ **[Anilist](https://anilist.co/home)** - مانجا / Light Novels / Manhwa / Manhua
