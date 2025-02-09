@@ -25,7 +25,7 @@ export default defineConfig({
             { text: '🎮العاب', link: '/games' },
             { text: '📺افلام / مسلسلات', link: '/movies&TV' },
             { text: '🎌اوتاكو', link: '/otaku' },
-            { text: '🎵موسيقى / بودكاست / راديو', link: '/music-podcasts-radio' },
+            { text: '🎵موسيقى / بودكاست / راديو', link: '/Music-Podcasts-Radio' },
             { text: '📗 قرائة', link: '/reading' },
             { text: '📱اندرويد', link: '/android' },
             { text: '🔍مواقع بحث', link: '/CSEs' }
