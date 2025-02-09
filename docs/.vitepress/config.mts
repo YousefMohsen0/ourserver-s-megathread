@@ -27,7 +27,7 @@ export default defineConfig({
             { text: '🎌اوتاكو', link: '/otaku' },
             { text: '🎵موسيقى / بودكاست / راديو', link: '/Music-Podcasts-Radio' },
             { text: '📗 قرائة', link: '/reading' },
-            { text: '📱اندرويد', link: '/android' },
+            { text: '📱اندرويد', link: '/Android' },
             { text: '🔍مواقع بحث', link: '/CSEs' }
           ]
         },
