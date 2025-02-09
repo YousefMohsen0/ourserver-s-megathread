@@ -17,7 +17,7 @@ export default defineConfig({
           items: [
             { text: '📚دليل المبتدئين', link: '/beginners-guide' },
             { text: '⚠مهم', link: '/important' },
-            { text: '📢تحديثات', link: '/posts' }
+            { text: '📢تحديثات', link: '/updates' }
           ]
         },
         {
