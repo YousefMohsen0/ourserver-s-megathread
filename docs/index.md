@@ -48,12 +48,12 @@ features:
 
   - title: اندرويد
     details: برامج, تكريك , محاكاة
-    link: /android
+    link: /Android
     icon: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="#e6ca93" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"><rect width="12.5" height="18.5" x="5.75" y="2.75" rx="3"/><path d="M11 17.75h2"/></g></svg>
 
   - title: موسيقى / بودكاست / راديو
     details: اسمع حمل تورنت اغاني بودكاستات و اكتر
-    link: /music-podcasts-radio
+    link: /Music-Podcasts-Radio
     icon: <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><g fill="none" stroke="#6c73ff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"><path d="m2 2l8 8m12-8l-8 8"/><ellipse cx="12" cy="9" rx="10" ry="5"/><path d="M7 13.4v7.9m5-7.3v8m5-8.6v7.9M2 9v8a10 5 0 0 0 20 0V9"/></g></svg>
 
 ---
