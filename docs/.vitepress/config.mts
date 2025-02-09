@@ -35,7 +35,7 @@ export default defineConfig({
           text: '🛠ادوات',
           collapsed: false, 
           items: [
-            { text: '👾 ادوات العاب', link: '/gaming-Tools' }
+            { text: '👾 ادوات العاب', link: '/Gaming-Tools' }
           ]
         },
         {
