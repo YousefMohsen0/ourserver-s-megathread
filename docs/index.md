@@ -102,3 +102,4 @@ features:
       text-shadow: var(--vp-home-hero-name-text-shadow);
     }
   </style>
+</div>
